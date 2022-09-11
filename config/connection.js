@@ -10,9 +10,9 @@ const sequelize = process.env.JAWSDB_URL
       process.env.DB_PASSWORD,
       {
         host: "localhost",
-        user: "root",
-        password: "Sarim123",
-        database: "ecommerce_db",
+        // user: "root",
+        // password: "Sarim123",
+        // database: "ecommerce_db",
         // // employees_db
         dialect: "mysql",
         dialectOptions: {
