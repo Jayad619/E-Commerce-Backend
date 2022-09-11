@@ -24,9 +24,14 @@ run `npm install` in terminal to install the dependencies.
 run `source schema.sql` in sql to create database
 run `node seeds/index.js` to seed data
 type `node server.js` in the console to localhost server.
-use insomnia to perform crud functions.
 
-## Walkthrough Video
+## Walkthrough Videos
+
+### Start
+
+https://drive.google.com/file/d/11Uir1OWiiyC0E9XEAVnJI8A4Jmfk-vvP/view?usp=sharing
+
+### Get
 
 ## Technologies Used
 
