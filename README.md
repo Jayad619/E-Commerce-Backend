@@ -22,8 +22,8 @@ GIVEN a functional Express.js API:
 
 run `npm install` in terminal to install the dependencies.
 run `source schema.sql` in sql to create database
-run `node seeds/index.js` to seed data
-type `node server.js` in the console to localhost server.
+run `npm run seed` to seed data
+type `npm run start` in the console to localhost server.
 
 ## Walkthrough Videos
 
