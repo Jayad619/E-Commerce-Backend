@@ -33,6 +33,20 @@ https://drive.google.com/file/d/11Uir1OWiiyC0E9XEAVnJI8A4Jmfk-vvP/view?usp=shari
 
 ### Get
 
+https://drive.google.com/file/d/13YwubAvMdTKtKd_AJZEkCtDiOaJiik4B/view?usp=sharing
+
+### Put
+
+https://drive.google.com/file/d/1YFtnADR32UlPI_N-aZyRY8lX-5OQyqOS/view?usp=sharing
+
+### Post
+
+https://drive.google.com/file/d/1yd8Ve_GJOgp-9EevfcgGWHRy83YmNIrZ/view?usp=sharing
+
+### Delete
+
+https://drive.google.com/file/d/1dvZIY1REsxLLodtim6LmMbF78Y4sgdNj/view?usp=sharing
+
 ## Technologies Used
 
 Javascript and NodeJS
