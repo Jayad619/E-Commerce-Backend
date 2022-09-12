@@ -59,6 +59,8 @@ For more information about licenses, please visit:
 
 ## Screenshot
 
+<img width="1512" alt="Screenshot 2022-09-12 at 02 16 54" src="https://user-images.githubusercontent.com/102623563/189558316-e65e4fc1-6671-4e87-a13e-5470491a6a7b.png">
+
 ## Contact Me
 
 - [Github Profile](https://github.com/Jayad619)
